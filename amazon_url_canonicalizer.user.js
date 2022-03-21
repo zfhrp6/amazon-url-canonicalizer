@@ -3,6 +3,7 @@
 // @author      zfhrp
 // @description Replace Amazon product page url with canonical form (`https://amazon.co.jp/dp/XXXXXXXX/`)
 // @homepageURL https://openuserjs.org/users/zfhrp
+// @license     MIT
 // @version     1.0.0
 // @match       *://*.amazon.co.jp/dp/*
 // @match       *://*.amazon.co.jp/*/dp/*
